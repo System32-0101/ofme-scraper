@@ -1,6 +1,11 @@
 # OFME-Scraper
 ## Made by Systemm32
 OFME Scraper based on NodeJS, made by Systemm32.
+### 🖼 Imágenes
+![OFME Scraper Mockup](https://github.com/user-attachments/assets/c47c8fa6-45ba-4f5e-aae8-a275d17c7326)
+
+![OFME Scraper Menu](https://github.com/user-attachments/assets/724f1955-ea4f-4c5a-9d29-c72afe9ec8b1)
+
 
 ### ⚙ Configuración
 Este scraper **necesita** una configuración para su correcto funcionamiento.
