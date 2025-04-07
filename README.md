@@ -31,5 +31,5 @@ Es posible que no funcione si no la utiliza.
       "source": "https://OFME-site/"
     }
   ]
-  }```
+  }
 ## ❗ **Es necesario cambiar la fuente de enlace del módulo OFME para que funcione** (por motivos legales no puedo proporcionar directamente el enlace.)
